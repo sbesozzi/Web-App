@@ -1,3 +1,4 @@
-## This is a Readme
+## Web App
 
-> You should probably update me.
+> Creating an app using jQuery
+- Deployed version at sbesozzi.webapp.surge.sh
